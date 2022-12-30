@@ -1,0 +1,29 @@
+.login-input-wrapper{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 35%;
+    margin-top: 10%;
+}
+.login-input{
+    margin: 10px;
+    border: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.login-button{
+    width: 200px;
+    height: 45px;
+    padding: 2px;
+    border: none;
+    border-radius: 8px;
+    margin: 25%;
+    margin-top: 5%;
+    color: rgb(232, 232, 238);
+    background-color: rgb(12, 135, 218);
+}
+
+.login-button:hover{
+    background-color: rgb(2, 112, 2);
+}
